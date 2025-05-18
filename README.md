@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu.leoznn/?next=%2F)
 
 ![Leonado GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-fcdev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-fcdev&layout=donut&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-fcdev&layout=compact&theme=tokyonight)
 
 ### IDE's:
 
