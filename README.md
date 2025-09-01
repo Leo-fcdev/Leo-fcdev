@@ -76,7 +76,6 @@
     <li>📌 Mora na Bahia - BR</li>
     <li>🧠 Participa da Liga de Desenvolvimento</li>
     <li>👨‍💻 Auxiliar administrativo na Prefeitura de Anguera</li>
-    <li>💪 Pratica musculação 4x por semana</li>
   </ul>
 </details>
 
